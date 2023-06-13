@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArjunKrizz
+- 👋 Hi, I’m @ArjunKrishna
 - 👀 I’m interested in exploring the realms of data science and leveraging its potential to extract meaningful insights from complex datasets. I'm particularly fascinated by machine learning, data analysis, and predictive modeling.
 - 🌱 I’m currently learning and expanding my knowledge in Python, Java, SQL, and various data science tools and libraries. I'm also actively enhancing my understanding of statistical concepts and algorithms.
 - 💞️ I’m looking to collaborate on projects that involve data analysis, machine learning, or any exciting data-driven problem-solving tasks. I'm eager to work with fellow data enthusiasts and contribute to impactful projects.
